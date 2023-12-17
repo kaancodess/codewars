@@ -5,3 +5,4 @@ def position(alphabet):
 
 print(position(alphabet))
 # https://www.codewars.com/kata/5808e2006b65bff35500008f/train/python
+# jqwgbrqwrwqrq
