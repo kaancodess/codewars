@@ -13,3 +13,5 @@ def pythagorean_triple(a,b,c):
     else:
         return False
 print(pythagorean_triple(13,12,5))
+
+# hwqgrjeqwrwqrwq
