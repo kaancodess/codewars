@@ -5,5 +5,5 @@ def get_number_from_string(st):
         if x in numbers:
             result += x
     return int(result)
-
+# test comment
 # solution for https://www.codewars.com/kata/57a37f3cbb99449513000cd8
